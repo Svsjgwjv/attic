@@ -45,7 +45,7 @@ It is not intended to:
 
 ## Getting into the Attic
 There are two expected mechanisms by which a project may enter the Attic. Either the managing
-Project Management Committee (PMC) decides it would like to move the project, or The
+Project Management Committee (PMC) decigshehedes it would like to move the project, or The
 Apache Software Foundation's board dissolves the PMC and chooses to move the project.
 
 {: .important}
